@@ -1,0 +1,25 @@
+{
+  "name": "shapeup_saver",
+  "version": "1.0.0",
+  "description": "Shapeup save to pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ans-4175/shapeup_saver.git"
+  },
+  "keywords": [
+    "shapeup",
+    "puppeteer",
+    "book",
+    "save"
+  ],
+  "author": "ans4175",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ans-4175/shapeup_saver/issues"
+  },
+  "homepage": "https://github.com/ans-4175/shapeup_saver#readme"
+}
